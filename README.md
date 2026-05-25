@@ -39,6 +39,7 @@ g++ lib_dude.cpp -o lib_dude -lmysqlclient
 ./lib_dude
 
 
-
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
   
